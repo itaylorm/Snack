@@ -23,8 +23,8 @@ SwiftyJSON
 This is a XCode 11 project which uses a single story board 
 
 There are two screens
-  Main - Displays a list of snacks and allows the user to pick the ones they want to order
-  Order - Allows user to review an order and submit
+  #Main - Displays a list of snacks and allows the user to pick the ones they want to order
+  #Order - Allows user to review an order and submit
   
  Mock System
   There are mock files behind the service classes in the project that provide simulated communication results
