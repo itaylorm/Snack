@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		340C180A23788F390018D670 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 340C180923788F390018D670 /* SceneDelegate.swift */; };
+		340C180B237899610018D670 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3434462B237640B500012011 /* Assets.xcassets */; };
 		34344623237640B300012011 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34344622237640B300012011 /* AppDelegate.swift */; };
 		34344627237640B300012011 /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34344626237640B300012011 /* MainController.swift */; };
 		3434462A237640B300012011 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34344628237640B300012011 /* Main.storyboard */; };
@@ -343,6 +344,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				340C180B237899610018D670 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
